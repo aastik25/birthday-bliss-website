@@ -35,7 +35,7 @@ const MessageSection = () => {
             
             <CardContent className="p-8 md:p-12 relative z-10">
               <div className="font-script text-2xl md:text-3xl text-primary mb-6">
-                Dear Birthday Girl,
+                Dear Ananya,
               </div>
               
               <div className="space-y-4 text-foreground text-lg leading-relaxed">

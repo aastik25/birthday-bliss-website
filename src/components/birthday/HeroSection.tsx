@@ -119,7 +119,7 @@ const HeroSection = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 1, delay: 0.3 }}
         >
-          Happy Birthday!
+          Happy Birthday Ananya!
         </motion.h1>
 
         <motion.div
@@ -128,7 +128,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.6 }}
         >
           <p className="text-2xl md:text-4xl font-semibold text-foreground mb-4">
-            To The Most Amazing Girl
+            To The Most Amazing Ananya
           </p>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
             May your day be filled with love, laughter, and all the happiness your heart can hold! 🎂✨
