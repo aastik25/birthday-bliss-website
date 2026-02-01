@@ -57,6 +57,27 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Birthday theme colors
+        pink: {
+          light: "hsl(var(--pink-light))",
+          DEFAULT: "hsl(var(--pink))",
+          dark: "hsl(var(--pink-dark))",
+        },
+        purple: {
+          light: "hsl(var(--purple-light))",
+          DEFAULT: "hsl(var(--purple))",
+          dark: "hsl(var(--purple-dark))",
+        },
+        gold: {
+          light: "hsl(var(--gold-light))",
+          DEFAULT: "hsl(var(--gold))",
+        },
+        coral: "hsl(var(--coral))",
+        teal: "hsl(var(--teal))",
+      },
+      fontFamily: {
+        script: ["Dancing Script", "cursive"],
+        sans: ["Poppins", "sans-serif"],
       },
       borderRadius: {
         lg: "var(--radius)",
