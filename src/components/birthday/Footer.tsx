@@ -19,7 +19,7 @@ const Footer = () => {
               <Cake className="w-10 h-10 text-primary" />
             </motion.div>
             <h2 className="font-script text-4xl md:text-5xl text-gradient">
-              Happy Birthday!
+              Happy Birthday Ananya!
             </h2>
             <motion.div
               animate={{ rotate: [0, -10, 10, 0] }}
